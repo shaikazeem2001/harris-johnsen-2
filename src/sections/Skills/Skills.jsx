@@ -3,6 +3,7 @@ import checkMarkIconDark from '../../assets/checkmark-dark.svg';
 import checkMarkIconLight from '../../assets/checkmark-light.svg';
 import SkillList from '../../common/SkillList';
 import { useTheme } from '../../common/ThemeContext';
+import React from 'react';
 
 function Skills() {
   const { theme } = useTheme();

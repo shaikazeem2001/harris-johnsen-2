@@ -4,6 +4,7 @@ import freshBurger from '../../assets/fresh-burger.png';
 import hipsster from '../../assets/hipsster.png';
 import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
+import React from 'react';
 
 function Projects() {
   return (
